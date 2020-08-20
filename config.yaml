@@ -4,10 +4,10 @@
 # 本地SOCKS5代理服务器端口
 # socks-port: 7891
 
-# Linux和macOS的透明代理服务器端口
+# Linux和macOS的透明代理服务器端口（如需使用此功能，请取消注释）
 # redir-port: 7892
 
-# HTTP(S)和SOCKS5服务器使用同一端口
+# HTTP(S)和SOCKS5服务器共用端口
 mixed-port: 7890
 
 # 本地SOCKS5/HTTP(S)服务器的身份验证
@@ -15,20 +15,22 @@ mixed-port: 7890
 #  - "user1:pass1"
 #  - "user2:pass2"
 
-# 如果设置为true，允许从其他LAN IP地址连接到本地终端服务器
+# 允许局域网的连接（可用来共享代理）
 allow-lan: false
 
-# bind-address仅在“allow lan”为“true”时生效
-# '*': bind all IP addresses
-# 192.168.122.11: bind a single IPv4 address
-# "[aaaa::a8aa:ff:fe09:57d8]": bind a single IPv6 address
+# 此功能仅在 allow-lan设置为 true 时生效，支持三种参数：
+# "*"                         绑定所有的IP地址
+# 192.168.122.11              绑定一个IPv4地址
+# "[aaaa::a8aa:ff:fe09:57d8]" 绑定一个IPv6地址
 bind-address: '*'
 
 # Clash的工作模式
+# rule（规则分流） / global（全局代理）/ direct（全局直连）
 mode: rule
 
 # 默认情况下，Clash将日志输出到STDOUTT
-# info / warning / error / debug / silent
+# silent / info / warning / error / debug
+# 级别越高日志输出量越大，越倾向于调试，若需要请自行开启
 log-level: info
 
 # 如果设置为false，解析程序不会将主机名转换为IPv6地址
@@ -37,22 +39,22 @@ ipv6: false
 # RESTful web API监听地址
 external-controller: 127.0.0.1:9090
 
-# 指向配置目录的相对路径或指向放置某些静态web资源的目录的绝对路径，Clash core将在“http://{{external-controller}}/ui”上为其提供服务
+# 指向配置目录的相对路径或指向放置某些静态web资源的目录的绝对路径，Clash core将其部署在“http://{{external-controller}}/ui”上
 # external-ui: folder
 
-# RESTful API的密码（可选）
+# RESTful API的口令（可选）
 # 通过指定HTTP头“Authorization:bearner${secret}”进行身份验证
-# 如果RESTful API正在侦听0.0.0.0，请设置密码
+# 如果RESTful API正在侦听0.0.0.0，请务必设置口令
 # secret: ""
 
-# 出站接口名称
+# 出站网卡接口
 # interface-name: en0
 
 # 仅当“dns.enhanced-mode”为“redir-host”时运行
 # 支持通配符主机名（e.g. *.clash.dev, *.foo.*.example.com）
 # 非通配符域名的优先级高于通配符域名
 # e.g. foo.example.com > *.example.com > .example.com
-# P.S. +.foo.com = .foo.com = foo.com
+# P.S. +.foo.com 效果等同于 .foo.com 和 foo.com
 hosts:
   'mtalk.google.com': 108.177.125.188
   't.cn': 203.107.55.116
@@ -65,24 +67,25 @@ hosts:
 dns:
   enable: true
   listen: 0.0.0.0:53
-  ipv6: false # 如果为false，则响应AAAA的结果将为空
+  ipv6: false # 如果为 false ，AAAA 请求将返回空
 
-  # default-nameserver将被用于解析下面DNS nameserver的主机名
+  # 以下填写的 DNS 服务器将会被用来解析 DNS 服务的域名
   # 仅可指定IP地址
   default-nameserver:
     - 223.5.5.5
     - 119.29.29.29
   enhanced-mode: redir-host # or fake-ip
-  fake-ip-range: 198.18.0.1/16 # Fake IP地址池CIDR
+  fake-ip-range: 198.18.0.1/16 # Fake IP 地址池（CIDR形式）
+  # use-hosts: true # 查询 hosts 并返回 IP 记录
   
-  # 此列表中的主机名不会用fake-ip解析
+  # 此列表中的域名不会用fake-ip解析
   # 对这些域名将会用真实IP地址来响应
   # fake-ip-filter:
   #   - '*.lan'
   #   - localhost.ptlogin2.qq.com
   
   # 支持UDP，TCP，DoT，DoH，可以指定要连接的端口
-  # 所有DNS请求都直接发送到nameserver，不经过代理，Clash使用第一个响应的结果解析DNS
+  # 所有DNS请求都直接发送到服务器，不经过代理，Clash使用第一个响应的结果解析DNS
   nameserver:
     - https://doh.pub/dns-query
     - https://223.5.5.5/dns-query
