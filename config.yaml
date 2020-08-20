@@ -37,7 +37,7 @@ log-level: info
 ipv6: false
 
 # RESTful web API监听地址
-external-controller: 127.0.0.1:9090
+external-controller: '127.0.0.1:9090'
 
 # 指向配置目录的相对路径或指向放置某些静态web资源的目录的绝对路径，Clash core将其部署在“http://{{external-controller}}/ui”上
 # external-ui: folder
