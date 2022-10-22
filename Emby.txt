@@ -1,0 +1,26 @@
+# Peach
+DOMAIN-SUFFIX,embymv.tk
+# MJJ
+DOMAIN-SUFFIX,mjjemby.org
+# Orange
+DOMAIN-SUFFIX,embytv.cf
+# 终点站
+DOMAIN-SUFFIX,emby.wtf
+# 卷毛鼠
+DOMAIN-SUFFIX,jmsooo.com
+# 品云
+DOMAIN-SUFFIX,embyplus.club
+# CatFish
+DOMAIN-SUFFIX,catfishemby.club
+# Polo
+DOMAIN-SUFFIX,poloemby.xyz
+# Misty
+DOMAIN-SUFFIX,aaa.ax
+# 垃圾影音
+DOMAIN-SUFFIX,emby.ml
+# CC_1
+DOMAIN-SUFFIX,ccemby.tk
+# CC_2
+DOMAIN-SUFFIX,ccemby.ga
+# BlueSea
+DOMAIN-SUFFIX,blueseamusics.com
