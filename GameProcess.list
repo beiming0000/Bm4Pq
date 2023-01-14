@@ -2,6 +2,8 @@
 PROCESS-NAME,GTA5.exe
 PROCESS-NAME,SocialClubHelper.exe
 # dmm
-DOMAIN-KEYWORD,dmm.co.jp
+DOMAIN-SUFFIX,dmm.co.jp
 # seesaawiki
-DOMAIN-KEYWORD,seesaawiki.jp
+DOMAIN-SUFFIX,seesaawiki.jp
+# mgstage
+DOMAIN-SUFFIX,mgstage.com
