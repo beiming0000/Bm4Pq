@@ -1,9 +1,5 @@
 # GTA5
 PROCESS-NAME,GTA5.exe
 PROCESS-NAME,SocialClubHelper.exe
-# dmm
-DOMAIN-SUFFIX,dmm.co.jp
-# seesaawiki
-DOMAIN-SUFFIX,seesaawiki.jp
-# mgstage
-DOMAIN-SUFFIX,mgstage.com
+# javdb
+DOMAIN-SUFFIX,javdb.com
