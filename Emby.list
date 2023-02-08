@@ -1,36 +1,36 @@
 # Peach
-DOMAIN-SUFFIX,embymv.tk
+DOMAIN-KEYWORD,embymv
 # MJJ
-DOMAIN-SUFFIX,mjjemby.org
+DOMAIN-KEYWORD,mjjemby
 # Orange
-DOMAIN-SUFFIX,embytv.cf
+DOMAIN-KEYWORD,embytv
+DOMAIN-KEYWORD,freeview
 # 终点站
 DOMAIN-SUFFIX,emby.wtf
 # 卷毛鼠
-DOMAIN-SUFFIX,jmsooo.com
+DOMAIN-KEYWORD,jmsooo
 # 品云
-DOMAIN-SUFFIX,embyplus.club
+DOMAIN-KEYWORD,embyplus
 # CatFish
-DOMAIN-SUFFIX,catfishemby.club
+DOMAIN-KEYWORD,catfishemby
 # Polo
-DOMAIN-SUFFIX,poloemby.xyz
+DOMAIN-KEYWORD,poloemby
+DOMAIN-KEYWORD,pololine
 # Misty
-DOMAIN-SUFFIX,aaa.ax
-# 垃圾影音_1
+DOMAIN-KEYWORD,misty
+# 垃圾影音
+DOMAIN-KEYWORD,loseremby
 DOMAIN-SUFFIX,emby.ml
-# 垃圾影音_2
-DOMAIN-SUFFIX,loseremby.org
-# CC_1
-DOMAIN-SUFFIX,ccemby.tk
-# CC_2
-DOMAIN-SUFFIX,ccemby.ga
-# BlueSea_1
-DOMAIN-SUFFIX,blueseamusics.com
-# BlueSea_2
-DOMAIN-SUFFIX,blueseacdn.com
+# CC
+DOMAIN-KEYWORD,ccemby
+# BlueSea
+DOMAIN-KEYWORD,blueseamusics
+DOMAIN-KEYWORD,bsem
 # MisakaF
-DOMAIN-SUFFIX,misakaf.org
+DOMAIN-KEYWORD,misakaf
+DOMAIN-KEYWORD,embyvip
 # 卷毛鼠IPTV
 DOMAIN-SUFFIX,arp220.us
-# Mine
+DOMAIN-SUFFIX,cmlive.us
+# MyNAS
 DOMAIN-KEYWORD,beimingnas
