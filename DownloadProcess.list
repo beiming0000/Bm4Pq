@@ -5,3 +5,5 @@ PROCESS-NAME,BitComet_x64.exe
 # PikPak
 PROCESS-NAME,PikPak.exe
 PROCESS-NAME,DownloadServer.exe
+# qBittorrent
+PROCESS-NAME,qbittorrent.exe
