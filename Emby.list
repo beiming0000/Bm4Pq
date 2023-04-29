@@ -11,8 +11,6 @@ DOMAIN-SUFFIX,emby.wtf
 DOMAIN-KEYWORD,jmsooo
 # 品云
 DOMAIN-KEYWORD,embyplus
-# CatFish
-DOMAIN-KEYWORD,catfishemby
 # Polo
 DOMAIN-KEYWORD,poloemby
 DOMAIN-KEYWORD,pololine
@@ -23,14 +21,7 @@ DOMAIN-KEYWORD,loseremby
 DOMAIN-SUFFIX,emby.ml
 # CC
 DOMAIN-KEYWORD,ccemby
-# BlueSea
-DOMAIN-KEYWORD,blueseamusics
-DOMAIN-KEYWORD,bsem
-# MisakaF
-DOMAIN-KEYWORD,misakaf
-DOMAIN-KEYWORD,embyvip
-# 卷毛鼠IPTV
-DOMAIN-SUFFIX,arp220.us
-DOMAIN-SUFFIX,cmlive.us
+# 剧狗
+DOMAIN-SUFFIX,ju.dog
 # MyNAS
 DOMAIN-KEYWORD,beimingnas
