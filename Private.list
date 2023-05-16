@@ -1,0 +1,51 @@
+# Emby-Peach
+DOMAIN-KEYWORD,embymv
+# Emby-MJJ
+DOMAIN-KEYWORD,mjjemby
+# Emby-Orange
+DOMAIN-KEYWORD,embytv
+DOMAIN-KEYWORD,freeview
+# Emby-终点站
+DOMAIN-SUFFIX,emby.wtf
+# Emby-卷毛鼠
+DOMAIN-KEYWORD,jmsooo
+# Emby-品云
+DOMAIN-KEYWORD,embyplus
+# Emby-Polo
+## DOMAIN-KEYWORD,poloemby
+## DOMAIN-KEYWORD,pololine
+# Emby-Misty
+## DOMAIN-KEYWORD,misty
+# Emby-垃圾影音
+DOMAIN-KEYWORD,loseremby
+DOMAIN-SUFFIX,emby.ml
+# Emby-CC
+DOMAIN-KEYWORD,ccemby
+# Emby-剧狗
+DOMAIN-SUFFIX,ju.dog
+# MyNAS
+DOMAIN-KEYWORD,beimingnas
+# PT-馒头
+DOMAIN-SUFFIX,m-team.cc
+# PT-观众
+DOMAIN-SUFFIX,audiences.me
+# PT-杜比
+DOMAIN-SUFFIX,hddolby.com
+# PT-憨憨
+DOMAIN-SUFFIX,hhanclub.top
+# PT-北洋园
+DOMAIN-SUFFIX,tjupt.org
+DOMAIN-SUFFIX,tju.pt
+# PT-U2
+DOMAIN-SUFFIX,dmhy.org
+DOMAIN-SUFFIX,dmhy.best
+# PT-天雪
+DOMAIN-SUFFIX,skyey2.com
+DOMAIN-SUFFIX,skyey.win
+DOMAIN-SUFFIX,skyeysnow.com
+# PT-杏坛
+DOMAIN-SUFFIX,xingtan.one
+# PT-聆音
+DOMAIN-SUFFIX,soulvoice.club
+# PT-KamePT
+DOMAIN-SUFFIX,kamept.com
