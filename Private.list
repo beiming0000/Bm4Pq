@@ -33,6 +33,7 @@ DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,hddolby.com
 # PT-憨憨
 DOMAIN-SUFFIX,hhanclub.top
+DOMAIN-SUFFIX,hhan.club
 # PT-北洋园
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,tju.pt
@@ -40,9 +41,9 @@ DOMAIN-SUFFIX,tju.pt
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,dmhy.best
 # PT-天雪
+DOMAIN-SUFFIX,skyeysnow.com
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,skyey.win
-DOMAIN-SUFFIX,skyeysnow.com
 # PT-杏坛
 DOMAIN-SUFFIX,xingtan.one
 # PT-聆音
@@ -51,8 +52,7 @@ DOMAIN-SUFFIX,soulvoice.club
 DOMAIN-SUFFIX,kamept.com
 # PT-丐帮
 DOMAIN-SUFFIX,gainbound.net
-DOMAIN-SUFFIX,iface.gainbound.net
-# PT-飞天拉面
+# PT-FSM
 DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,fsm-us.eu.org
 DOMAIN-SUFFIX,creditracker.net
