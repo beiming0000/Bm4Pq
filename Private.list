@@ -1,3 +1,5 @@
+# SynologyDDNS
+DOMAIN-SUFFIX,i234.me
 # Emby-Misakaf
 DOMAIN-KEYWORD,misakaf
 DOMAIN-SUFFIX,asa4.cn
@@ -26,8 +28,6 @@ DOMAIN-SUFFIX,emby.ml
 DOMAIN-KEYWORD,ccemby
 # Emby-剧狗
 DOMAIN-SUFFIX,ju.dog
-# MyNAS
-DOMAIN-KEYWORD,beimingnas
 # PT-馒头
 DOMAIN-SUFFIX,m-team.cc
 # PT-观众
@@ -59,5 +59,7 @@ DOMAIN-SUFFIX,gainbound.net
 DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,fsm-us.eu.org
 DOMAIN-SUFFIX,creditracker.net
+# PT-莫妮卡
+DOMAIN-SUFFIX,monikadesign.uk
 # PT-备胎
 DOMAIN-SUFFIX,beitai.pt
