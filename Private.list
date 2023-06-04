@@ -1,5 +1,8 @@
 # SynologyDDNS
 DOMAIN-SUFFIX,i234.me
+# SynologyQC
+DOMAIN-SUFFIX,quickconnect.cn
+DOMAIN-SUFFIX,quickconnect.to
 # Emby-Misakaf
 DOMAIN-KEYWORD,misakaf
 DOMAIN-SUFFIX,asa4.cn
