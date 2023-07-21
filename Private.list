@@ -1,122 +1,126 @@
-# SynologyDDNS
+# Synology
+# DDNS
 DOMAIN-SUFFIX,i234.me
-# SynologyQC
+# QuickConnect
 DOMAIN-SUFFIX,quickconnect.cn
-DOMAIN-SUFFIX,quickconnect.to
-# Emby-Misakaf
+
+# Emby
+# MisakaF
 DOMAIN-KEYWORD,misakaf
 DOMAIN-SUFFIX,asa4.cn
-# Emby-Peach
+# Peach
 DOMAIN-KEYWORD,embymv
-# Emby-MJJ
-DOMAIN-KEYWORD,mjjemby
-# Emby-Orange
-DOMAIN-KEYWORD,embytv
-DOMAIN-KEYWORD,freeview
-# Emby-终点站
+# MJJ
+;DOMAIN-KEYWORD,mjjemby
+# Orange
+/DOMAIN-KEYWORD,embytv
+//DOMAIN-KEYWORD,freeview
+# 终点站
 DOMAIN-SUFFIX,emby.wtf
-# Emby-卷毛鼠
+# 卷毛鼠
 DOMAIN-KEYWORD,jmsooo
-# Emby-品云
+# 品云
 DOMAIN-KEYWORD,embyplus
-# Emby-Polo
-## DOMAIN-KEYWORD,poloemby
-## DOMAIN-KEYWORD,pololine
-# Emby-Misty
+# Polo
+##DOMAIN-KEYWORD,poloemby
+##DOMAIN-KEYWORD,pololine
+# Misty
 ## DOMAIN-KEYWORD,misty
-# Emby-垃圾影音
+# 垃圾影音
 DOMAIN-KEYWORD,loseremby
 DOMAIN-SUFFIX,emby.ml
-# Emby-CC
+# CC
 DOMAIN-KEYWORD,ccemby
-# Emby-剧狗
+# 剧狗
 DOMAIN-SUFFIX,ju.dog
-# Emby-树状图
+# 树状图
 DOMAIN-SUFFIX,123456.al
-# Emby-私人影院
+# 私人影院
 DOMAIN-SUFFIX,agon.cf
-# Emby-考研
+# 考研服
 DOMAIN-SUFFIX,pornemby.club
-# PT-馒头
+
+# PT
+# 馒头
 DOMAIN-SUFFIX,m-team.cc
-# PT-观众
+# 观众
 DOMAIN-SUFFIX,audiences.me
 DOMAIN-SUFFIX,cinefiles.info
-# PT-杜比
+# 杜比
 DOMAIN-SUFFIX,hddolby.com
-# PT-憨憨
+# 憨憨
 DOMAIN-SUFFIX,hhanclub.top
 DOMAIN-SUFFIX,hhan.club
-# PT-北洋园
+# 北洋园
 DOMAIN-SUFFIX,tjupt.org
 DOMAIN-SUFFIX,tju.pt
-# PT-U2
+# U2
 DOMAIN-SUFFIX,dmhy.org
 DOMAIN-SUFFIX,dmhy.best
-# PT-天雪
+# 天雪
 DOMAIN-SUFFIX,skyeysnow.com
 DOMAIN-SUFFIX,skyey2.com
 DOMAIN-SUFFIX,skyey.win
-# PT-杏坛
+# 杏坛
 DOMAIN-SUFFIX,xingtan.one
-# PT-聆音
+# 聆音
 DOMAIN-SUFFIX,soulvoice.club
-# PT-KamePT
+# KamePT
 DOMAIN-SUFFIX,kamept.com
-# PT-丐帮
+# 丐帮
 DOMAIN-SUFFIX,gainbound.net
-# PT-FSM
+# FSM
 DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,fsm-us.eu.org
 DOMAIN-SUFFIX,creditracker.net
-# PT-莫妮卡
+# 莫妮卡
 DOMAIN-SUFFIX,monikadesign.uk
-# PT-备胎
+# 备胎
 DOMAIN-SUFFIX,beitai.pt
-# PT-老师
+# 老师
 DOMAIN-SUFFIX,nicept.net
-# PT-红叶
+# 红叶
 DOMAIN-SUFFIX,leaves.red
-# PT-海棠
+# 海棠
 DOMAIN-SUFFIX,htpt.cc
-# PT-学校
+# 学校
 DOMAIN-SUFFIX,btschool.club
-# PT-猪猪
+# 猪猪
 DOMAIN-SUFFIX,piggo.me
-# PT-FL
+# FL
 DOMAIN-SUFFIX,filelist.io
 DOMAIN-SUFFIX,flro.org
-# PT-TL
+# TL
 DOMAIN-SUFFIX,torrentleech.org
 DOMAIN-SUFFIX,torrentleech.cc
 DOMAIN-SUFFIX,torrentleech.me
 DOMAIN-SUFFIX,tlgetin.cc
 DOMAIN-SUFFIX,tleechreload.org
-# PT-核弹头
+# 核弹头
 DOMAIN-SUFFIX,hd-torrents.org
 DOMAIN-SUFFIX,hd-torrents.net
 DOMAIN-SUFFIX,hd-torrents.me
 DOMAIN-SUFFIX,hdts.ru
 DOMAIN-SUFFIX,hdts-announce.ru
-# PT-梓喵
+# 梓喵
 DOMAIN-SUFFIX,azusa.wiki
-# PT-朱雀
+# 朱雀
 DOMAIN-SUFFIX,zhuque.in
-# PT-碟粉
+# 碟粉
 DOMAIN-SUFFIX,discfan.net
-# PT-TCCF
+# TCCF
 DOMAIN-SUFFIX,et8.org
-# PT-SSD
+# SSD
 DOMAIN-SUFFIX,springsunday.net
-# PT-蝴蝶
+# 蝴蝶
 DOMAIN-SUFFIX,hust.edu.cn
-# PT-织梦
+# 织梦
 DOMAIN-SUFFIX,zmpt.cc
-# PT-月月
+# 月月
 DOMAIN-SUFFIX,keepfrds.com
-# PT-鸡婆婆
+# 鸡婆婆
 DOMAIN-SUFFIX,jpopsuki.eu
-# PT-GGPT
+# GGPT
 DOMAIN-SUFFIX,gamegamept.com
-# PT-蝴蝶
+# 蝴蝶
 DOMAIN-SUFFIX,hamsters.space
