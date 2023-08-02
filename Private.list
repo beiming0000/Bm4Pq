@@ -4,6 +4,10 @@ DOMAIN-SUFFIX,i234.me
 # QuickConnect
 DOMAIN-SUFFIX,quickconnect.cn
 
+# 机场订阅
+# 按摩院
+DOMAIN-SUFFIX,qeuhco.xyz
+
 # Emby
 # MisakaF
 DOMAIN-KEYWORD,misakaf
