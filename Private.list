@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,qeuhco.xyz
 # Emby
 # MisakaF
 DOMAIN-KEYWORD,misakaf
-DOMAIN-SUFFIX,asa4.cn
+DOMAIN-SUFFIX,xmsl.org
 # Peach
 DOMAIN-KEYWORD,embymv
 # MJJ
@@ -132,3 +132,5 @@ DOMAIN-SUFFIX,jpopsuki.eu
 DOMAIN-SUFFIX,wukongwendao.top
 # 32-GGPT
 DOMAIN-SUFFIX,gamegamept.com
+# 33-明教
+DOMAIN-SUFFIX,hdpt.xyz
