@@ -4,59 +4,21 @@ DOMAIN-SUFFIX,i234.me
 # QuickConnect
 DOMAIN-SUFFIX,quickconnect.cn
 
-# 机场订阅
-# 按摩院
-DOMAIN-SUFFIX,qeuhco.xyz
-
 # Emby
 # MisakaF
 DOMAIN-KEYWORD,misakaf
 DOMAIN-SUFFIX,xmsl.org
-# Peach
-DOMAIN-KEYWORD,embymv
-# MJJ
-//DOMAIN-KEYWORD,mjjemby
-# Orange
-//DOMAIN-KEYWORD,embytv
-//DOMAIN-KEYWORD,freeview
-# 终点站
-DOMAIN-SUFFIX,emby.wtf
 # 卷毛鼠
 DOMAIN-KEYWORD,jmsooo
-# 品云
-//DOMAIN-KEYWORD,embyplus
-# Polo
-//DOMAIN-KEYWORD,poloemby
-//DOMAIN-KEYWORD,pololine
-# Misty
-//DOMAIN-KEYWORD,misty
 # 垃圾影音
 DOMAIN-KEYWORD,loseremby
 DOMAIN-SUFFIX,emby.ml
-# CC
-//DOMAIN-KEYWORD,ccemby
-# 剧狗
-//DOMAIN-SUFFIX,ju.dog
 # 树状图
 DOMAIN-SUFFIX,123456.al
 # 私人影院
 DOMAIN-SUFFIX,agon.cf
-# 考研服
-//DOMAIN-SUFFIX,pornemby.club
 
 # PT
-# 丐帮
-//DOMAIN-SUFFIX,gainbound.net
-# 备胎
-//DOMAIN-SUFFIX,beitai.pt
-# EXO
-//DOMAIN-SUFFIX,exoticaz.to
-# TL
-//DOMAIN-SUFFIX,torrentleech.org
-//DOMAIN-SUFFIX,torrentleech.cc
-//DOMAIN-SUFFIX,torrentleech.me
-//DOMAIN-SUFFIX,tlgetin.cc
-//DOMAIN-SUFFIX,tleechreload.org
 # 1-馒头
 DOMAIN-SUFFIX,m-team.cc
 DOMAIN-SUFFIX,m-team.io
