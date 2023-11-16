@@ -1,5 +1,7 @@
 # 禁漫
 DOMAIN-KEYWORD,18comic
+# H动漫
+DOMAIN-KEYWORD,hanime1
 # JavDB
 DOMAIN-SUFFIX,javdb.com
 DOMAIN-SUFFIX,jdbstatic.com
