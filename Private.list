@@ -52,7 +52,7 @@ DOMAIN-SUFFIX,xingtan.one
 # 10-聆音
 DOMAIN-SUFFIX,soulvoice.club
 # 11-FSM
-DOMAIN-SUFFIX,fsm.name
+//DOMAIN-SUFFIX,fsm.name
 DOMAIN-SUFFIX,fsm-us.eu.org
 DOMAIN-SUFFIX,creditracker.net
 # 12-莫妮卡
@@ -151,3 +151,5 @@ DOMAIN-SUFFIX,sjtu.edu.cn
 DOMAIN-SUFFIX,qingwa.pro
 # 54-KIMOJI
 DOMAIN-SUFFIX,kimoji.club
+# 55-蟹黄堡
+DOMAIN-SUFFIX,crabpt.vip
