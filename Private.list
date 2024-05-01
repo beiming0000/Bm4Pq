@@ -168,10 +168,13 @@ DOMAIN-SUFFIX,hdmayi.com
 DOMAIN-SUFFIX,1ptba.com
 # 62-象岛
 DOMAIN-SUFFIX,ptvicomo.net
-DOMAIN-SUFFIX,tracker.ptvicomo.net
 # 63-铂金学院
 DOMAIN-SUFFIX,ptchina.org
 # 64-打胶
 DOMAIN-SUFFIX,dajiao.cyou
 # 65-红豆饭
 DOMAIN-SUFFIX,hdfans.org
+# 66-PTT
+DOMAIN-SUFFIX,pttime.org
+# 67-铂金家
+DOMAIN-SUFFIX,pthome.net
