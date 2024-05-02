@@ -64,7 +64,7 @@ DOMAIN-SUFFIX,leaves.red
 # 15-海棠
 DOMAIN-SUFFIX,htpt.cc
 # 16-学校
-DOMAIN-SUFFIX,btschool.club
+//DOMAIN-SUFFIX,btschool.club
 # 17-猪猪
 DOMAIN-SUFFIX,piggo.me
 # 18-FL
